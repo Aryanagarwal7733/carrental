@@ -1,0 +1,30 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+USER    username :test@gmail.com
+        password :Test@12345
+
+
+
+ADMIN   username:admin
+        password:Test@12345 
+
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "carrental" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** first you will need to copy paste the carrental file in xampp/htdocs/*****  
+
+
+***** you will need to export the carrental sqlfile on the mysql server *****
+
+
+***** to use the user portal directly open localhost/carrental/index*****
+
+
+***** to use the admin portal directly open localhost/carrental/admin*****
+
+
+
+#THANK YOU FOR DOWNLOADING
